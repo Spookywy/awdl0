@@ -1,6 +1,6 @@
 # Script to disable Apple Wireless Direct Link
 
-Replace 'valentinmenoret' in the com.menoret.awdl0.plist with macOS user account
+Replace 'valentinmenoret' in the com.menoret.awdl0.plist file with your macOS user account
 
 ## Disable awdl0
 

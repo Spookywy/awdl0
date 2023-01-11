@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 sudo launchctl unload -w /Library/LaunchDaemons/com.menoret.awdl0.plist
 sudo rm /Library/LaunchDaemons/com.menoret.awdl0.plist
